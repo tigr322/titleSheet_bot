@@ -15,3 +15,4 @@ walk_SE/
 *.png
 *.zip
 .env
+tilesheet_bot/.env
