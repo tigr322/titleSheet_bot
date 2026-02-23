@@ -14,3 +14,4 @@ allWalk/
 walk_SE/
 *.png
 *.zip
+.env
