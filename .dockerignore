@@ -1,0 +1,16 @@
+.venv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+input.*
+output.*
+.git
+.env
+.idea/
+temp/
+allWalk/
+walk_SE/
+*.png
+*.zip

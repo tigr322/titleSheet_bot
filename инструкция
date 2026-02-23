@@ -1,0 +1,4 @@
+ python remove_bg.py input.png output.png
+python remove_bg.py input.png output.png --width 512 --height 512
+ python remove_bg.py a.png out.png --second b.png --stitch vertical --width 512 --height 1024
+ python remove_bg.py 1.png 3.png --second 2.png --stitch vertical --width 512 --height 1024

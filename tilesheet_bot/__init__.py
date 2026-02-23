@@ -1,0 +1,1 @@
+"""Tilesheet bot package."""
